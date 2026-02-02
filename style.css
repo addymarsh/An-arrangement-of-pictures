@@ -1,0 +1,47 @@
+body {
+	background-image: url("aerial-view-city.jpeg");
+
+}
+
+img {
+	height: 200px;
+	width: 300px;
+	position: relative;
+	left: 50%;
+}
+
+.a{
+	position: fixed;
+	left: 20px;
+	top: 70%;
+}
+
+.c {
+	position: fixed;
+}
+
+.e {
+	position: absolute;
+}
+
+.h {
+	position: fixed;
+	top: 0px;
+	right: 200px;
+}
+
+.j {
+	position: absolute;
+	top: 300px;
+	right: 200px;
+}
+
+.g {
+	posiiton: absolute;
+	z-index: 1;
+}
+.i {
+	positon: absolute;
+	z-index: 2;
+	right: 10%;
+}
